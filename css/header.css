@@ -1,0 +1,64 @@
+/* navbar background color */
+.navbar-default {
+    background-color: #222;
+    padding: 80px 0;
+    border: 0;
+    -webkit-transition: padding .3s;
+    -moz-transition: padding .3s;
+    transition: padding .3s;
+}
+
+/* link default color */
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:visited {
+    color: #fec503;
+}
+
+/* link on hover color */
+.navbar-default .navbar-nav > li > a:hover {
+    color: #03B9FE;
+}
+
+/* brand default color */
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:visited {
+    color: #fec503;
+    font-size: 2em;
+    -webkit-transition: all .3s; 
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
+/* brand on hover color */
+.navbar-default .navbar-brand:hover {
+    color: #03B9FE;
+}
+
+/* responsive menu default color */
+.navbar-default .navbar-toggle,
+.navbar-default .navbar-toggle:visited {
+    background-color: #fec503;
+    
+}
+
+/* responsive menu on hover color */
+.navbar-default .navbar-toggle:hover {
+    background-color: #03B9FE;
+    
+}
+
+/* responsive menu style */
+.navbar-default .navbar-collapse {
+	border: 0;
+}
+
+/* shrunk navbar background color */
+.navbar-default.navbar-shrink {
+    background-color: #666;
+    padding: 5px 0;
+}
+
+/* shrunk brand font size */
+.navbar-default.navbar-shrink .navbar-brand {
+    font-size: 1.5em;
+}
