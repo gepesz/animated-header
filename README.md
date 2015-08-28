@@ -11,7 +11,3 @@ See the demo for details.
 * https://www.facebook.com/szocs.peter
 * https://www.linkedin.com/in/szocspeter
 * https://github.com/gepesz
-
-## Copyright and License
-
-Copyright &copy; 2015 Peter Szocs. Code released under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) license.
