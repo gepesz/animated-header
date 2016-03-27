@@ -1,7 +1,8 @@
 /* navbar background color */
 .navbar-default {
+    font-size: 1.5em;
     background-color: #222;
-    padding: 80px 0;
+    padding: 50px 0;
     border: 0;
     -webkit-transition: padding .3s;
     -moz-transition: padding .3s;
@@ -22,8 +23,8 @@
 /* brand default color */
 .navbar-default .navbar-brand,
 .navbar-default .navbar-brand:visited {
-    color: #fec503;
     font-size: 2em;
+    color: #fec503;
     -webkit-transition: all .3s; 
     -moz-transition: all .3s;
     transition: all .3s;
@@ -54,11 +55,12 @@
 
 /* shrunk navbar background color */
 .navbar-default.navbar-shrink {
-    background-color: #666;
-    padding: 5px 0;
+    font-size: 1.2em;
+    background-color: #999;
+    padding: 0;
 }
 
 /* shrunk brand font size */
 .navbar-default.navbar-shrink .navbar-brand {
-    font-size: 1.5em;
+    font-size: 1.2em;
 }

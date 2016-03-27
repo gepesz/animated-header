@@ -18,7 +18,7 @@
 
 var animatedHeader = {
 	didScroll: false,
-	changeHeaderOn: 150,
+	changeHeaderOn: 120,
 	
 	scrollPage: function() {
 		if ( $(window).scrollTop() >= this.changeHeaderOn ) {
